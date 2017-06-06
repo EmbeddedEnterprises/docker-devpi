@@ -15,5 +15,4 @@ devpi-findlinks
 
 # Tools
 devpi-cleaner
-# Install via Git until version >= 0.1.1 is available via Pypi
-git+https://github.com/innoteq/devpi-slack/@95933899818ce96039c561b6fdc8030ab5238125#egg=devpi-slack
+devpi-slack>=0.1.1
